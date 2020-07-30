@@ -1,7 +1,11 @@
 ### Hi there 👋
+ 💁🏻‍♀️ Iam 15
+ 
+ 👩🏻‍💻 Beginner progammer
+ 
 🌱 I’m currently learning Swift🦅
 
-💬 Ask me about CATS🧶, maybe DIVING🤿
+💬 Ask me about CATS🧶 and maybe DIVING🤿
 
 📫 How to reach me: twitter: @shaljenaidel
 
